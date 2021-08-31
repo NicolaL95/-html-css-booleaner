@@ -39,3 +39,20 @@ html {
     font-size: 15px;
     margin-bottom: 27px;
 }
+
+.descrizione_foto{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.testo_generico{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+#lista_non_ordinata{
+    padding-inline-start: 0px;
+    list-style-position: inside
+}
