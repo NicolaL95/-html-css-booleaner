@@ -6,9 +6,36 @@ html {
     background-color: rgb(78, 160, 255);
     background-image: url(./img/pattern.png);
     background-attachment: fixed;
+    padding-top: 50px;
+    padding-bottom: 5px;
 }
 
 #logo{
-    width: 30%;
+    width: auto;
+    height: 80px;
+}
 
+#h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin-top: 27px;
+    margin-bottom: 0px;
+}
+#paragrafo_scrittore{
+    margin-top: 2px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(169, 169, 169);
+    font-size: 27px;
+    margin-bottom: 2px;
+}
+.nome_scrittore{
+    color: rgb(32, 169, 229);
+}
+
+#paragrafo_scrittore_data{
+    margin-top: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(169, 169, 169);
+    font-size: 15px;
+    margin-bottom: 27px;
 }
